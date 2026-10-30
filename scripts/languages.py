@@ -18,6 +18,7 @@ query($login: String!, $cursor: String) {
     repositories(first: 100, after: $cursor, ownerAffiliations: OWNER, isFork: false) {
       pageInfo { hasNextPage endCursor }
       nodes {
+        name
         languages(first: 20, orderBy: {field: SIZE, direction: DESC}) {
           edges { size node { name color } }
         }
@@ -45,8 +46,11 @@ def fetch(login, token):
         if "errors" in data:
             sys.exit(f"GraphQL error: {data['errors']}")
         repos = data["data"]["user"]["repositories"]
-        repo_count += len(repos["nodes"])
         for repo in repos["nodes"]:
+            # Skip the profile repo itself, its stats script isn't real work
+            if repo["name"].lower() == login.lower():
+                continue
+            repo_count += 1
             for edge in repo["languages"]["edges"]:
                 name = edge["node"]["name"]
                 if name in IGNORED:
