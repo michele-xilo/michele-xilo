@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="162" viewBox="0 0 400 162">
+<style>.t{font:600 16px 'Segoe UI',Ubuntu,sans-serif;fill:#58a6ff}.l{font:400 12px 'Segoe UI',Ubuntu,sans-serif;fill:#8b949e}</style>
+<rect x="0.5" y="0.5" width="399" height="161" rx="6" fill="#0d1117" stroke="#30363d"/>
+<text x="20" y="32" class="t">Most used languages</text>
+<clipPath id="c"><rect x="20" y="50" width="360" height="10" rx="5"/></clipPath>
+<g clip-path="url(#c)">
+<rect x="20.00" y="50" width="356.40" height="10" fill="#dea584"/>
+<rect x="375.90" y="50" width="1.95" height="10" fill="#e34c26"/>
+<rect x="377.35" y="50" width="1.43" height="10" fill="#3178c6"/>
+<rect x="378.29" y="50" width="1.41" height="10" fill="#3572A5"/>
+<rect x="379.19" y="50" width="1.31" height="10" fill="#1a5e9a"/>
+</g>
+<circle cx="25.0" cy="84" r="5" fill="#dea584"/>
+<text x="36.0" y="88" class="l">Rust 98.9%</text>
+<circle cx="205.0" cy="84" r="5" fill="#e34c26"/>
+<text x="216.0" y="88" class="l">HTML 0.4%</text>
+<circle cx="25.0" cy="108" r="5" fill="#3178c6"/>
+<text x="36.0" y="112" class="l">TypeScript 0.3%</text>
+<circle cx="205.0" cy="108" r="5" fill="#3572A5"/>
+<text x="216.0" y="112" class="l">Python 0.3%</text>
+<circle cx="25.0" cy="132" r="5" fill="#1a5e9a"/>
+<text x="36.0" y="136" class="l">WGSL 0.2%</text>
+</svg>
