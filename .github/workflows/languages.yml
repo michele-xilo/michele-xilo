@@ -14,13 +14,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Render languages.svg
-        # STATS_TOKEN: a token with read access to private repos; without it only public repos are counted
+        # STATS_TOKEN: a token with read access to private repos; the update is skipped without it
         env:
-          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
-        run: python scripts/languages.py "${{ github.repository_owner }}" languages.svg
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then echo "STATS_TOKEN not set, skipping"; exit 0; fi
+          python scripts/languages.py "${{ github.repository_owner }}" languages.svg
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add languages.svg
-          git diff --cached --quiet || git commit -m "Update language stats" && git push
+          git diff --cached --quiet || { git commit -m "Update language stats" && git push; }
