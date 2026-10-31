@@ -4,35 +4,35 @@
 <text x="24" y="36" class="t">Most used languages</text>
 <text x="24" y="54" class="s">7 languages · 6 repositories · 2 MB of code</text>
 <circle cx="100" cy="149.0" r="58" fill="none" stroke="var(--track)" stroke-width="16"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3572A5" stroke-width="16" stroke-dasharray="236.12 364.42" stroke-dashoffset="-0.00" transform="rotate(-90 100 149.0)" style="animation-delay:0.00s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#dea584" stroke-width="16" stroke-dasharray="104.11 364.42" stroke-dashoffset="-238.12" transform="rotate(-90 100 149.0)" style="animation-delay:0.12s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3178c6" stroke-width="16" stroke-dasharray="16.03 364.42" stroke-dashoffset="-344.23" transform="rotate(-90 100 149.0)" style="animation-delay:0.24s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#663399" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-362.26" transform="rotate(-90 100 149.0)" style="animation-delay:0.36s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#f1e05a" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-363.07" transform="rotate(-90 100 149.0)" style="animation-delay:0.48s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#e34c26" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-363.64" transform="rotate(-90 100 149.0)" style="animation-delay:0.60s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#8b949e" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-364.18" transform="rotate(-90 100 149.0)" style="animation-delay:0.72s"/>
-<text x="100" y="151.0" text-anchor="middle" class="big">65%</text>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3572A5" stroke-width="16" stroke-dasharray="246.01 364.42" stroke-dashoffset="-0.00" transform="rotate(-90 100 149.0)" style="animation-delay:0.00s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#dea584" stroke-width="16" stroke-dasharray="95.80 364.42" stroke-dashoffset="-248.01" transform="rotate(-90 100 149.0)" style="animation-delay:0.12s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3178c6" stroke-width="16" stroke-dasharray="14.62 364.42" stroke-dashoffset="-345.81" transform="rotate(-90 100 149.0)" style="animation-delay:0.24s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#663399" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-362.43" transform="rotate(-90 100 149.0)" style="animation-delay:0.36s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#f1e05a" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-363.17" transform="rotate(-90 100 149.0)" style="animation-delay:0.48s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#e34c26" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-363.70" transform="rotate(-90 100 149.0)" style="animation-delay:0.60s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#8b949e" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-364.20" transform="rotate(-90 100 149.0)" style="animation-delay:0.72s"/>
+<text x="100" y="151.0" text-anchor="middle" class="big">68%</text>
 <text x="100" y="169.0" text-anchor="middle" class="s">Python</text>
 <g class="row" style="animation-delay:0.30s">
 <circle cx="201" cy="88" r="5" fill="#3572A5"/>
 <text x="212" y="92" class="n">Python</text>
 <rect x="300" y="85" width="110" height="6" rx="3" fill="var(--track)"/>
-<rect class="bar" x="300" y="85" width="71.88" height="6" rx="3" fill="#3572A5" style="animation-delay:0.40s"/>
-<text x="456" y="92" text-anchor="end" class="p">65.3%</text>
+<rect class="bar" x="300" y="85" width="74.86" height="6" rx="3" fill="#3572A5" style="animation-delay:0.40s"/>
+<text x="456" y="92" text-anchor="end" class="p">68.1%</text>
 </g>
 <g class="row" style="animation-delay:0.40s">
 <circle cx="201" cy="114" r="5" fill="#dea584"/>
 <text x="212" y="118" class="n">Rust</text>
 <rect x="300" y="111" width="110" height="6" rx="3" fill="var(--track)"/>
-<rect class="bar" x="300" y="111" width="32.03" height="6" rx="3" fill="#dea584" style="animation-delay:0.50s"/>
-<text x="456" y="118" text-anchor="end" class="p">29.1%</text>
+<rect class="bar" x="300" y="111" width="29.52" height="6" rx="3" fill="#dea584" style="animation-delay:0.50s"/>
+<text x="456" y="118" text-anchor="end" class="p">26.8%</text>
 </g>
 <g class="row" style="animation-delay:0.50s">
 <circle cx="201" cy="140" r="5" fill="#3178c6"/>
 <text x="212" y="144" class="n">TypeScript</text>
 <rect x="300" y="137" width="110" height="6" rx="3" fill="var(--track)"/>
 <rect class="bar" x="300" y="137" width="6.00" height="6" rx="3" fill="#3178c6" style="animation-delay:0.60s"/>
-<text x="456" y="144" text-anchor="end" class="p">4.9%</text>
+<text x="456" y="144" text-anchor="end" class="p">4.6%</text>
 </g>
 <g class="row" style="animation-delay:0.60s">
 <circle cx="201" cy="166" r="5" fill="#663399"/>
@@ -46,7 +46,7 @@
 <text x="212" y="196" class="n">JavaScript</text>
 <rect x="300" y="189" width="110" height="6" rx="3" fill="var(--track)"/>
 <rect class="bar" x="300" y="189" width="6.00" height="6" rx="3" fill="#f1e05a" style="animation-delay:0.80s"/>
-<text x="456" y="196" text-anchor="end" class="p">0.2%</text>
+<text x="456" y="196" text-anchor="end" class="p">0.1%</text>
 </g>
 <g class="row" style="animation-delay:0.80s">
 <circle cx="201" cy="218" r="5" fill="#e34c26"/>
