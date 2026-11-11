@@ -4,10 +4,10 @@
 <text x="24" y="36" class="t">Most used languages</text>
 <text x="24" y="54" class="s">10 languages · 11 repositories · 7 MB of code</text>
 <circle cx="100" cy="149.0" r="58" fill="none" stroke="var(--track)" stroke-width="16"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#dea584" stroke-width="16" stroke-dasharray="184.22 364.42" stroke-dashoffset="-0.00" transform="rotate(-90 100 149.0)" style="animation-delay:0.00s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3572A5" stroke-width="16" stroke-dasharray="167.64 364.42" stroke-dashoffset="-186.22" transform="rotate(-90 100 149.0)" style="animation-delay:0.12s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3178c6" stroke-width="16" stroke-dasharray="3.60 364.42" stroke-dashoffset="-355.86" transform="rotate(-90 100 149.0)" style="animation-delay:0.24s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3A4E3A" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-361.47" transform="rotate(-90 100 149.0)" style="animation-delay:0.36s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#dea584" stroke-width="16" stroke-dasharray="184.78 364.42" stroke-dashoffset="-0.00" transform="rotate(-90 100 149.0)" style="animation-delay:0.00s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3572A5" stroke-width="16" stroke-dasharray="167.12 364.42" stroke-dashoffset="-186.78" transform="rotate(-90 100 149.0)" style="animation-delay:0.12s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3178c6" stroke-width="16" stroke-dasharray="3.58 364.42" stroke-dashoffset="-355.90" transform="rotate(-90 100 149.0)" style="animation-delay:0.24s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3A4E3A" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-361.48" transform="rotate(-90 100 149.0)" style="animation-delay:0.36s"/>
 <circle class="seg" cx="100" cy="149.0" r="58" stroke="#844FBA" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-362.92" transform="rotate(-90 100 149.0)" style="animation-delay:0.48s"/>
 <circle class="seg" cx="100" cy="149.0" r="58" stroke="#663399" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-363.75" transform="rotate(-90 100 149.0)" style="animation-delay:0.60s"/>
 <circle class="seg" cx="100" cy="149.0" r="58" stroke="#8b949e" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-364.00" transform="rotate(-90 100 149.0)" style="animation-delay:0.72s"/>
@@ -17,15 +17,15 @@
 <circle cx="201" cy="88" r="5" fill="#dea584"/>
 <text x="212" y="92" class="n">Rust</text>
 <rect x="300" y="85" width="110" height="6" rx="3" fill="var(--track)"/>
-<rect class="bar" x="300" y="85" width="56.21" height="6" rx="3" fill="#dea584" style="animation-delay:0.40s"/>
-<text x="456" y="92" text-anchor="end" class="p">51.1%</text>
+<rect class="bar" x="300" y="85" width="56.38" height="6" rx="3" fill="#dea584" style="animation-delay:0.40s"/>
+<text x="456" y="92" text-anchor="end" class="p">51.3%</text>
 </g>
 <g class="row" style="animation-delay:0.40s">
 <circle cx="201" cy="114" r="5" fill="#3572A5"/>
 <text x="212" y="118" class="n">Python</text>
 <rect x="300" y="111" width="110" height="6" rx="3" fill="var(--track)"/>
-<rect class="bar" x="300" y="111" width="51.20" height="6" rx="3" fill="#3572A5" style="animation-delay:0.50s"/>
-<text x="456" y="118" text-anchor="end" class="p">46.5%</text>
+<rect class="bar" x="300" y="111" width="51.05" height="6" rx="3" fill="#3572A5" style="animation-delay:0.50s"/>
+<text x="456" y="118" text-anchor="end" class="p">46.4%</text>
 </g>
 <g class="row" style="animation-delay:0.50s">
 <circle cx="201" cy="140" r="5" fill="#3178c6"/>
