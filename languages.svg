@@ -2,64 +2,64 @@
 <style>:root{--bg:#ffffff;--border:#d0d7de;--title:#0969da;--text:#1f2328;--muted:#656d76;--track:#eaeef2}@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--border:#30363d;--title:#58a6ff;--text:#e6edf3;--muted:#8b949e;--track:#21262d}}text{font-family:'Segoe UI',Ubuntu,Helvetica,sans-serif}.t{font-size:16px;font-weight:600;fill:var(--title)}.s{font-size:11px;fill:var(--muted)}.n{font-size:13px;fill:var(--text)}.p{font-size:12px;fill:var(--muted);font-variant-numeric:tabular-nums}.big{font-size:22px;font-weight:700;fill:var(--text)}.seg{fill:none;animation:draw 1.2s cubic-bezier(.4,0,.2,1) both}@keyframes draw{from{stroke-dasharray:0 1000}}.row{opacity:0;animation:fade .5s ease-out forwards}@keyframes fade{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}.bar{transform-box:fill-box;transform-origin:left;animation:grow .9s cubic-bezier(.4,0,.2,1) both}@keyframes grow{from{transform:scaleX(0)}}</style>
 <rect x="0.5" y="0.5" width="479" height="273" rx="10" fill="var(--bg)" stroke="var(--border)"/>
 <text x="24" y="36" class="t">Most used languages</text>
-<text x="24" y="54" class="s">11 languages · 11 repositories · 8 MB of code</text>
+<text x="24" y="54" class="s">11 languages · 12 repositories · 8 MB of code</text>
 <circle cx="100" cy="149.0" r="58" fill="none" stroke="var(--track)" stroke-width="16"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#dea584" stroke-width="16" stroke-dasharray="192.38 364.42" stroke-dashoffset="-0.00" transform="rotate(-90 100 149.0)" style="animation-delay:0.00s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3572A5" stroke-width="16" stroke-dasharray="159.22 364.42" stroke-dashoffset="-194.38" transform="rotate(-90 100 149.0)" style="animation-delay:0.12s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3178c6" stroke-width="16" stroke-dasharray="3.20 364.42" stroke-dashoffset="-355.59" transform="rotate(-90 100 149.0)" style="animation-delay:0.24s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3A4E3A" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-360.80" transform="rotate(-90 100 149.0)" style="animation-delay:0.36s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#844FBA" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-362.14" transform="rotate(-90 100 149.0)" style="animation-delay:0.48s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#f1e05a" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-362.92" transform="rotate(-90 100 149.0)" style="animation-delay:0.60s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#8b949e" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-363.55" transform="rotate(-90 100 149.0)" style="animation-delay:0.72s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#dea584" stroke-width="16" stroke-dasharray="189.58 364.42" stroke-dashoffset="-0.00" transform="rotate(-90 100 149.0)" style="animation-delay:0.00s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3572A5" stroke-width="16" stroke-dasharray="159.44 364.42" stroke-dashoffset="-191.58" transform="rotate(-90 100 149.0)" style="animation-delay:0.12s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3178c6" stroke-width="16" stroke-dasharray="4.10 364.42" stroke-dashoffset="-353.03" transform="rotate(-90 100 149.0)" style="animation-delay:0.24s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#663399" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-359.13" transform="rotate(-90 100 149.0)" style="animation-delay:0.36s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3A4E3A" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-360.66" transform="rotate(-90 100 149.0)" style="animation-delay:0.48s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#f1e05a" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-361.99" transform="rotate(-90 100 149.0)" style="animation-delay:0.60s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#8b949e" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-363.26" transform="rotate(-90 100 149.0)" style="animation-delay:0.72s"/>
 <text x="100" y="151.0" text-anchor="middle" class="big">53%</text>
 <text x="100" y="169.0" text-anchor="middle" class="s">Rust</text>
 <g class="row" style="animation-delay:0.30s">
 <circle cx="201" cy="88" r="5" fill="#dea584"/>
 <text x="212" y="92" class="n">Rust</text>
 <rect x="300" y="85" width="110" height="6" rx="3" fill="var(--track)"/>
-<rect class="bar" x="300" y="85" width="58.67" height="6" rx="3" fill="#dea584" style="animation-delay:0.40s"/>
-<text x="456" y="92" text-anchor="end" class="p">53.3%</text>
+<rect class="bar" x="300" y="85" width="57.83" height="6" rx="3" fill="#dea584" style="animation-delay:0.40s"/>
+<text x="456" y="92" text-anchor="end" class="p">52.6%</text>
 </g>
 <g class="row" style="animation-delay:0.40s">
 <circle cx="201" cy="114" r="5" fill="#3572A5"/>
 <text x="212" y="118" class="n">Python</text>
 <rect x="300" y="111" width="110" height="6" rx="3" fill="var(--track)"/>
-<rect class="bar" x="300" y="111" width="48.66" height="6" rx="3" fill="#3572A5" style="animation-delay:0.50s"/>
-<text x="456" y="118" text-anchor="end" class="p">44.2%</text>
+<rect class="bar" x="300" y="111" width="48.73" height="6" rx="3" fill="#3572A5" style="animation-delay:0.50s"/>
+<text x="456" y="118" text-anchor="end" class="p">44.3%</text>
 </g>
 <g class="row" style="animation-delay:0.50s">
 <circle cx="201" cy="140" r="5" fill="#3178c6"/>
 <text x="212" y="144" class="n">TypeScript</text>
 <rect x="300" y="137" width="110" height="6" rx="3" fill="var(--track)"/>
 <rect class="bar" x="300" y="137" width="6.00" height="6" rx="3" fill="#3178c6" style="animation-delay:0.60s"/>
-<text x="456" y="144" text-anchor="end" class="p">1.4%</text>
+<text x="456" y="144" text-anchor="end" class="p">1.7%</text>
 </g>
 <g class="row" style="animation-delay:0.60s">
-<circle cx="201" cy="166" r="5" fill="#3A4E3A"/>
-<text x="212" y="170" class="n">Cuda</text>
+<circle cx="201" cy="166" r="5" fill="#663399"/>
+<text x="212" y="170" class="n">CSS</text>
 <rect x="300" y="163" width="110" height="6" rx="3" fill="var(--track)"/>
-<rect class="bar" x="300" y="163" width="6.00" height="6" rx="3" fill="#3A4E3A" style="animation-delay:0.70s"/>
+<rect class="bar" x="300" y="163" width="6.00" height="6" rx="3" fill="#663399" style="animation-delay:0.70s"/>
 <text x="456" y="170" text-anchor="end" class="p">0.4%</text>
 </g>
 <g class="row" style="animation-delay:0.70s">
-<circle cx="201" cy="192" r="5" fill="#844FBA"/>
-<text x="212" y="196" class="n">HCL</text>
+<circle cx="201" cy="192" r="5" fill="#3A4E3A"/>
+<text x="212" y="196" class="n">Cuda</text>
 <rect x="300" y="189" width="110" height="6" rx="3" fill="var(--track)"/>
-<rect class="bar" x="300" y="189" width="6.00" height="6" rx="3" fill="#844FBA" style="animation-delay:0.80s"/>
-<text x="456" y="196" text-anchor="end" class="p">0.2%</text>
+<rect class="bar" x="300" y="189" width="6.00" height="6" rx="3" fill="#3A4E3A" style="animation-delay:0.80s"/>
+<text x="456" y="196" text-anchor="end" class="p">0.4%</text>
 </g>
 <g class="row" style="animation-delay:0.80s">
 <circle cx="201" cy="218" r="5" fill="#f1e05a"/>
 <text x="212" y="222" class="n">JavaScript</text>
 <rect x="300" y="215" width="110" height="6" rx="3" fill="var(--track)"/>
 <rect class="bar" x="300" y="215" width="6.00" height="6" rx="3" fill="#f1e05a" style="animation-delay:0.90s"/>
-<text x="456" y="222" text-anchor="end" class="p">0.2%</text>
+<text x="456" y="222" text-anchor="end" class="p">0.3%</text>
 </g>
 <g class="row" style="animation-delay:0.90s">
 <circle cx="201" cy="244" r="5" fill="#8b949e"/>
 <text x="212" y="248" class="n">Other</text>
 <rect x="300" y="241" width="110" height="6" rx="3" fill="var(--track)"/>
 <rect class="bar" x="300" y="241" width="6.00" height="6" rx="3" fill="#8b949e" style="animation-delay:1.00s"/>
-<text x="456" y="248" text-anchor="end" class="p">0.2%</text>
+<text x="456" y="248" text-anchor="end" class="p">0.3%</text>
 </g>
 </svg>
