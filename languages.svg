@@ -2,15 +2,15 @@
 <style>:root{--bg:#ffffff;--border:#d0d7de;--title:#0969da;--text:#1f2328;--muted:#656d76;--track:#eaeef2}@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--border:#30363d;--title:#58a6ff;--text:#e6edf3;--muted:#8b949e;--track:#21262d}}text{font-family:'Segoe UI',Ubuntu,Helvetica,sans-serif}.t{font-size:16px;font-weight:600;fill:var(--title)}.s{font-size:11px;fill:var(--muted)}.n{font-size:13px;fill:var(--text)}.p{font-size:12px;fill:var(--muted);font-variant-numeric:tabular-nums}.big{font-size:22px;font-weight:700;fill:var(--text)}.seg{fill:none;animation:draw 1.2s cubic-bezier(.4,0,.2,1) both}@keyframes draw{from{stroke-dasharray:0 1000}}.row{opacity:0;animation:fade .5s ease-out forwards}@keyframes fade{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}.bar{transform-box:fill-box;transform-origin:left;animation:grow .9s cubic-bezier(.4,0,.2,1) both}@keyframes grow{from{transform:scaleX(0)}}</style>
 <rect x="0.5" y="0.5" width="479" height="273" rx="10" fill="var(--bg)" stroke="var(--border)"/>
 <text x="24" y="36" class="t">Most used languages</text>
-<text x="24" y="54" class="s">15 languages · 18 repositories · 21 MB of code</text>
+<text x="24" y="54" class="s">15 languages · 19 repositories · 21 MB of code</text>
 <circle cx="100" cy="149.0" r="58" fill="none" stroke="var(--track)" stroke-width="16"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#dea584" stroke-width="16" stroke-dasharray="256.39 364.42" stroke-dashoffset="-0.00" transform="rotate(-90 100 149.0)" style="animation-delay:0.00s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3572A5" stroke-width="16" stroke-dasharray="80.82 364.42" stroke-dashoffset="-258.39" transform="rotate(-90 100 149.0)" style="animation-delay:0.12s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3178c6" stroke-width="16" stroke-dasharray="15.46 364.42" stroke-dashoffset="-341.21" transform="rotate(-90 100 149.0)" style="animation-delay:0.24s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#844FBA" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-358.68" transform="rotate(-90 100 149.0)" style="animation-delay:0.36s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#f1e05a" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-360.78" transform="rotate(-90 100 149.0)" style="animation-delay:0.48s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#663399" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-361.70" transform="rotate(-90 100 149.0)" style="animation-delay:0.60s"/>
-<circle class="seg" cx="100" cy="149.0" r="58" stroke="#8b949e" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-362.44" transform="rotate(-90 100 149.0)" style="animation-delay:0.72s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#dea584" stroke-width="16" stroke-dasharray="256.41 364.42" stroke-dashoffset="-0.00" transform="rotate(-90 100 149.0)" style="animation-delay:0.00s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3572A5" stroke-width="16" stroke-dasharray="80.92 364.42" stroke-dashoffset="-258.41" transform="rotate(-90 100 149.0)" style="animation-delay:0.12s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#3178c6" stroke-width="16" stroke-dasharray="15.37 364.42" stroke-dashoffset="-341.33" transform="rotate(-90 100 149.0)" style="animation-delay:0.24s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#844FBA" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-358.70" transform="rotate(-90 100 149.0)" style="animation-delay:0.36s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#f1e05a" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-360.80" transform="rotate(-90 100 149.0)" style="animation-delay:0.48s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#663399" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-361.72" transform="rotate(-90 100 149.0)" style="animation-delay:0.60s"/>
+<circle class="seg" cx="100" cy="149.0" r="58" stroke="#8b949e" stroke-width="16" stroke-dasharray="0.80 364.42" stroke-dashoffset="-362.45" transform="rotate(-90 100 149.0)" style="animation-delay:0.72s"/>
 <text x="100" y="151.0" text-anchor="middle" class="big">71%</text>
 <text x="100" y="169.0" text-anchor="middle" class="s">Rust</text>
 <g class="row" style="animation-delay:0.30s">
@@ -24,8 +24,8 @@
 <circle cx="201" cy="114" r="5" fill="#3572A5"/>
 <text x="212" y="118" class="n">Python</text>
 <rect x="300" y="111" width="110" height="6" rx="3" fill="var(--track)"/>
-<rect class="bar" x="300" y="111" width="25.00" height="6" rx="3" fill="#3572A5" style="animation-delay:0.50s"/>
-<text x="456" y="118" text-anchor="end" class="p">22.7%</text>
+<rect class="bar" x="300" y="111" width="25.03" height="6" rx="3" fill="#3572A5" style="animation-delay:0.50s"/>
+<text x="456" y="118" text-anchor="end" class="p">22.8%</text>
 </g>
 <g class="row" style="animation-delay:0.50s">
 <circle cx="201" cy="140" r="5" fill="#3178c6"/>
